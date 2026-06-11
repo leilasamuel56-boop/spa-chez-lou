@@ -1,0 +1,6 @@
+{
+  "name": "Chez Lou Royal Beauty",
+  "description": "Institut de beauté et spa haut de gamme à Yamoussoukro. Soins esthétiques de luxe, Hydrafacial, Massages et Réservation en ligne sécurisée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
